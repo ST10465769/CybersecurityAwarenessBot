@@ -1,3 +1,8 @@
+Student: Simamkele Kinola Kaulela
+Student number: St10465769
+module: Programming 2A
+Group 1
+
 🛡️ Cybersecurity Awareness Bot
 
 📌 Project Overview
