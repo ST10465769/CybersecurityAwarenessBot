@@ -1,0 +1,15 @@
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\obj\Debug\net8.0-windows\CybersecurityAwarenessBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\obj\Debug\net8.0-windows\CybersecurityAwarenessBot.AssemblyInfoInputs.cache
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\obj\Debug\net8.0-windows\CybersecurityAwarenessBot.AssemblyInfo.cs
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\obj\Debug\net8.0-windows\CybersecurityAwarenessBot.csproj.CoreCompileInputs.cache
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\bin\Debug\net8.0-windows\CybersecurityAwarenessBot.exe
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\bin\Debug\net8.0-windows\greeting.wav
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\bin\Debug\net8.0-windows\CybersecurityAwarenessBot.deps.json
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\bin\Debug\net8.0-windows\CybersecurityAwarenessBot.runtimeconfig.json
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\bin\Debug\net8.0-windows\CybersecurityAwarenessBot.dll
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\bin\Debug\net8.0-windows\CybersecurityAwarenessBot.pdb
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\obj\Debug\net8.0-windows\CybersecurityAwarenessBot.dll
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\obj\Debug\net8.0-windows\refint\CybersecurityAwarenessBot.dll
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\obj\Debug\net8.0-windows\CybersecurityAwarenessBot.pdb
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\obj\Debug\net8.0-windows\CybersecurityAwarenessBot.genruntimeconfig.cache
+C:\Users\Amava\OneDrive\Documents\Sima\Program.cs\obj\Debug\net8.0-windows\ref\CybersecurityAwarenessBot.dll

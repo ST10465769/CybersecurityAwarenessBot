@@ -1,0 +1,3 @@
+dotnet new console -o CybersecurityAwarenessBot --framework net8.0-windows
+cd CybersecurityAwarenessBot
+code .
